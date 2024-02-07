@@ -1,0 +1,12 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemmufazalov/components.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
